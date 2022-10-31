@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.e365768e.css",
-    "main.js": "./static/js/main.8ff7fb15.js",
-    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "./index.html",
-    "main.e365768e.css.map": "./static/css/main.e365768e.css.map",
-    "main.8ff7fb15.js.map": "./static/js/main.8ff7fb15.js.map"
+    "main.css": "/stress-app/static/css/main.e365768e.css",
+    "main.js": "/stress-app/static/js/main.e4798951.js",
+    "static/media/logo.svg": "/stress-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/stress-app/index.html",
+    "main.e365768e.css.map": "/stress-app/static/css/main.e365768e.css.map",
+    "main.e4798951.js.map": "/stress-app/static/js/main.e4798951.js.map"
   },
   "entrypoints": [
     "static/css/main.e365768e.css",
-    "static/js/main.8ff7fb15.js"
+    "static/js/main.e4798951.js"
   ]
 }
