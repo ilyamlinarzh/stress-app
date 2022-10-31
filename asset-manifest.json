@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/stress-app/static/css/main.e365768e.css",
-    "main.js": "/stress-app/static/js/main.a65369aa.js",
+    "main.js": "/stress-app/static/js/main.7fa88ca5.js",
     "static/media/logo.svg": "/stress-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/stress-app/index.html",
     "main.e365768e.css.map": "/stress-app/static/css/main.e365768e.css.map",
-    "main.a65369aa.js.map": "/stress-app/static/js/main.a65369aa.js.map"
+    "main.7fa88ca5.js.map": "/stress-app/static/js/main.7fa88ca5.js.map"
   },
   "entrypoints": [
     "static/css/main.e365768e.css",
-    "static/js/main.a65369aa.js"
+    "static/js/main.7fa88ca5.js"
   ]
 }
